@@ -36,7 +36,8 @@ Este projeto foi criado para aprender e reforçar os seguintes conceitos:
    ```bash
    git clone https://github.com/seu-usuario/rpg-battle-game.git
    
-   ⚔️ Sistema de Batalha
+   
+⚔️ Sistema de Batalha
 Cada arma tem um poder específico.
 
 Os monstros têm níveis e HP variados.
